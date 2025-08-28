@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Billboard.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1" /><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="26.09666"
+     inkscape:cx="22.665736"
+     inkscape:cy="10.863459"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><path
+     id="rect1"
+     style="fill:#fc7f7f;stroke-width:15.1181;stroke-linecap:square;paint-order:markers stroke fill"
+     d="M 2.8183594 0 C 1.2572176 0 -2.9605918e-16 1.2572176 0 2.8183594 L 0 13.181641 C 0 14.742782 1.2572176 16 2.8183594 16 L 13.181641 16 C 14.742782 16 16 14.742782 16 13.181641 L 16 2.8183594 C 16 1.2572176 14.742782 -2.9605918e-16 13.181641 0 L 2.8183594 0 z M 3.84375 1.5859375 L 5.0195312 1.5859375 L 5.0195312 5.0195312 L 1.5859375 5.0195312 L 1.5859375 3.84375 C 1.5859375 2.5919286 2.5919286 1.5859375 3.84375 1.5859375 z M 6.0761719 1.5859375 L 9.9238281 1.5859375 L 9.9238281 5.0195312 L 6.0761719 5.0195312 L 6.0761719 1.5859375 z M 10.980469 1.5859375 L 12.15625 1.5859375 C 13.408072 1.5859375 14.414063 2.5919286 14.414062 3.84375 L 14.414062 5.0195312 L 10.980469 5.0195312 L 10.980469 1.5859375 z M 1.5859375 6.0761719 L 5.0195312 6.0761719 L 5.0195312 9.9238281 L 1.5859375 9.9238281 L 1.5859375 6.0761719 z M 6.0761719 6.0761719 L 9.9238281 6.0761719 L 9.9238281 9.9238281 L 6.0761719 9.9238281 L 6.0761719 6.0761719 z M 10.980469 6.0761719 L 14.414062 6.0761719 L 14.414062 9.9238281 L 10.980469 9.9238281 L 10.980469 6.0761719 z M 1.5859375 10.980469 L 5.0195312 10.980469 L 5.0195312 14.414062 L 3.84375 14.414062 C 2.5919286 14.414062 1.5859375 13.408072 1.5859375 12.15625 L 1.5859375 10.980469 z M 6.0761719 10.980469 L 9.9238281 10.980469 L 9.9238281 14.414062 L 6.0761719 14.414062 L 6.0761719 10.980469 z M 10.980469 10.980469 L 14.414062 10.980469 L 14.414062 12.15625 C 14.414062 13.408072 13.408072 14.414063 12.15625 14.414062 L 10.980469 14.414062 L 10.980469 10.980469 z " /></svg>
